@@ -1,0 +1,22 @@
+{
+  "name": "ngt",
+  "version": "0.0.1",
+  "description": "Node Gathering Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Txuflen/NGT.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Xush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Txuflen/NGT/issues"
+  },
+  "homepage": "https://github.com/Txuflen/NGT#readme"
+}
